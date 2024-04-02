@@ -1,0 +1,14 @@
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\SequenciaFibonacci\SequenciaFibonacci\bin\Debug\net6.0\SequenciaFibonacci.exe
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\SequenciaFibonacci\SequenciaFibonacci\bin\Debug\net6.0\SequenciaFibonacci.deps.json
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\SequenciaFibonacci\SequenciaFibonacci\bin\Debug\net6.0\SequenciaFibonacci.runtimeconfig.json
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\SequenciaFibonacci\SequenciaFibonacci\bin\Debug\net6.0\SequenciaFibonacci.dll
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\SequenciaFibonacci\SequenciaFibonacci\bin\Debug\net6.0\SequenciaFibonacci.pdb
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\net6.0\SequenciaFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\net6.0\SequenciaFibonacci.AssemblyInfoInputs.cache
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\net6.0\SequenciaFibonacci.AssemblyInfo.cs
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\net6.0\SequenciaFibonacci.csproj.CoreCompileInputs.cache
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\net6.0\SequenciaFibonacci.dll
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\net6.0\refint\SequenciaFibonacci.dll
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\net6.0\SequenciaFibonacci.pdb
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\net6.0\SequenciaFibonacci.genruntimeconfig.cache
+E:\Cursos\ProjetosPessoais\EntrevistaTarget\SequenciaFibonacci\SequenciaFibonacci\obj\Debug\net6.0\ref\SequenciaFibonacci.dll
